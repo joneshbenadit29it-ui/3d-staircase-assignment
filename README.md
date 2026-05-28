@@ -1,4 +1,4 @@
-# 🏗️ Task 3: 3D Modeling — Spiral Staircase Component
+# 🏗️ Task 8: 3D Modeling — Spiral Staircase Component
 
 An interactive, high-fidelity 3D civil/architectural spiral staircase component built entirely with code using **Three.js (WebGL)**. This project demonstrates procedural 3D geometric modeling, custom material scripting, and dynamic studio lighting layouts within a modern developer environment.
 
